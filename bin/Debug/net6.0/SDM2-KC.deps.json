@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SDM2-KC/1.0.0": {
+        "runtime": {
+          "SDM2-KC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SDM2-KC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

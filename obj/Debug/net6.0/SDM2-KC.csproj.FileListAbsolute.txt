@@ -1,0 +1,14 @@
+C:\Users\aaron\Desktop\C#_Projects\SDM2-KC\bin\Debug\net6.0\SDM2-KC.exe
+C:\Users\aaron\Desktop\C#_Projects\SDM2-KC\bin\Debug\net6.0\SDM2-KC.deps.json
+C:\Users\aaron\Desktop\C#_Projects\SDM2-KC\bin\Debug\net6.0\SDM2-KC.runtimeconfig.json
+C:\Users\aaron\Desktop\C#_Projects\SDM2-KC\bin\Debug\net6.0\SDM2-KC.dll
+C:\Users\aaron\Desktop\C#_Projects\SDM2-KC\bin\Debug\net6.0\SDM2-KC.pdb
+C:\Users\aaron\Desktop\C#_Projects\SDM2-KC\obj\Debug\net6.0\SDM2-KC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaron\Desktop\C#_Projects\SDM2-KC\obj\Debug\net6.0\SDM2-KC.AssemblyInfoInputs.cache
+C:\Users\aaron\Desktop\C#_Projects\SDM2-KC\obj\Debug\net6.0\SDM2-KC.AssemblyInfo.cs
+C:\Users\aaron\Desktop\C#_Projects\SDM2-KC\obj\Debug\net6.0\SDM2-KC.csproj.CoreCompileInputs.cache
+C:\Users\aaron\Desktop\C#_Projects\SDM2-KC\obj\Debug\net6.0\SDM2-KC.dll
+C:\Users\aaron\Desktop\C#_Projects\SDM2-KC\obj\Debug\net6.0\refint\SDM2-KC.dll
+C:\Users\aaron\Desktop\C#_Projects\SDM2-KC\obj\Debug\net6.0\SDM2-KC.pdb
+C:\Users\aaron\Desktop\C#_Projects\SDM2-KC\obj\Debug\net6.0\SDM2-KC.genruntimeconfig.cache
+C:\Users\aaron\Desktop\C#_Projects\SDM2-KC\obj\Debug\net6.0\ref\SDM2-KC.dll
